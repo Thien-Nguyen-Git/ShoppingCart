@@ -1,8 +1,8 @@
-package com.shoppingapp.dao;
+package com.corejava.dao;
 
 import java.util.List;
 
-import com.shoppingapp.model.Customer;
+import com.corejava.model.Customer;
 
 public interface CustomerDAO {
 

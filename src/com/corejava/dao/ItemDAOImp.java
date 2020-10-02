@@ -1,4 +1,4 @@
-package com.shoppingapp.dao;
+package com.corejava.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -8,8 +8,8 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.shoppingapp.connection.ConnectionManager;
-import com.shoppingapp.model.Items;
+import com.corejava.connection.ConnectionManager;
+import com.corejava.model.Items;
 
 public class ItemDAOImp implements ItemDAO {
 
