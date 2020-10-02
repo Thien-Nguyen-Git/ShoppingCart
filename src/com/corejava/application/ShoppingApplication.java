@@ -4,13 +4,13 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.shoppingapp.dao.CustomerDAO;
-import com.shoppingapp.dao.CustomerDAOImp;
-import com.shoppingapp.dao.ItemDAO;
-import com.shoppingapp.dao.ItemDAOImp;
-import com.shoppingapp.model.Customer;
-import com.shoppingapp.model.Items;
-import com.shoppingapp.utility.ColorsUtility.Colors;
+import com.corejava.dao.CustomerDAO;
+import com.corejava.dao.CustomerDAOImp;
+import com.corejava.dao.ItemDAO;
+import com.corejava.dao.ItemDAOImp;
+import com.corejava.model.Customer;
+import com.corejava.model.Items;
+import com.corejava.utility.ColorsUtility.Colors;
 
 import java.util.InputMismatchException;
 import java.util.List;
